@@ -1,0 +1,29 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: rgb(57, 51, 144);
+        color: #e8e8e8;;
+        
+}
+
+.letra {
+font-size: 35px;
+
+}
+
+.letra2 {
+    font-size: 55px;
+    border-bottom: solid;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.letra3 {
+    font-size: 35px;
+    padding-top: 100px;
+    padding-left: 350px;
+}
+
+img {
+    max-width: 50%;
+}
+
+
