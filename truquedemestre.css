@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(57, 51, 144);
+    color: #e8e8e8;;
+    font-family: sans-serif;
+}
+
+.bordabaixo{
+    border-bottom: solid honeydew;
+}
+
+p{
+    font-size: 35px;
+}
+
+.fontemenor{
+    font-size: 20px;
+}
