@@ -1,7 +1,12 @@
-Propósito do trabalho: Evoluir em github trabalhando em equipe!
+# Cineteca do Caixetovisk
 
-João Vitor Vieira
-Arthur
-Cristopher
-Gabriel Ádrian
-Rafael
+### Propósito do trabalho: Evoluir em github trabalhando em equipe e mesclando as matérias!
+
+#### Apresentado por: 
+- João Vitor Vieira
+- Arthur
+- Cristopher
+- Gabriel Ádrian
+- Rafael
+
+
